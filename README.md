@@ -7,10 +7,10 @@ This project predicts whether a patient has heart disease using machine learning
 Logistic Regression
 Random Forest
 📊 Results
-Logistic Regression Accuracy: (write your result)
-Random Forest Accuracy: (write your result)
+Logistic Regression Accuracy: 0.84
+Random Forest Accuracy: 0.89
 🔍 Key Insights
-Most important features: (write here)
+Most important features:Age, Chest Pain Type, Max HR
 Random Forest performed better than Logistic Regression
 🛠️ Technologies
 Python
